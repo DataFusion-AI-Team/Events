@@ -10,4 +10,4 @@
 ### 8-) Natural Language Processing with [Yusuf Sarıgöz](https://www.linkedin.com/in/yusuf-sar%C4%B1g%C3%B6z-4bb826ba/)   [TR]
 ### 9-) Mobile Development React-Native  with [Kerem Er](https://www.linkedin.com/in/kerem-er-5650ba15a/)  [TR]
 ### 10-) Deep Learning with [Thinam Tamang](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)   [EN]
-
+### 11-) Working Abroad with [Umut Tekakça](https://www.linkedin.com/in/umut-tekakca/)    [TR]
