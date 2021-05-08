@@ -11,3 +11,4 @@
 ### 9-) Mobile Development React-Native  with [Kerem Er](https://www.linkedin.com/in/kerem-er-5650ba15a/)  [TR]
 ### 10-) Deep Learning with [Thinam Tamang](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)   [EN]
 ### 11-) Working Abroad with [Umut Tekakça](https://www.linkedin.com/in/umut-tekakca/)    [TR]
+### 12-) Data Science Management with [Sharan Kumar Ravindran](https://www.linkedin.com/in/rsharankumar/)
