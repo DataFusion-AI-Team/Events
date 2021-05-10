@@ -12,3 +12,4 @@
 ### 10-) Deep Learning with [Thinam Tamang](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)   [EN]
 ### 11-) Working Abroad with [Umut Tekakça](https://www.linkedin.com/in/umut-tekakca/)    [TR]
 ### 12-) Data Science Management with [Sharan Kumar Ravindran](https://www.linkedin.com/in/rsharankumar/)  [EN]
+### 13-) Freelancer Backend Development with [Ülgen Sarıkavak](https://www.linkedin.com/in/ulgens/)  [TR]
