@@ -14,3 +14,4 @@
 ### 12-) Data Science Management with [Sharan Kumar Ravindran](https://www.linkedin.com/in/rsharankumar/)  [EN]
 ### 13-) Freelancer Backend Development-1 with [Ülgen Sarıkavak](https://www.linkedin.com/in/ulgens/)  [TR]
 ### 14-) Freelancer Backend Development-2 with [Ülgen Sarıkavak](https://www.linkedin.com/in/ulgens/)  [TR]
+### 15-) Data Engineer with [Manpreet Budhraja](https://www.linkedin.com/in/manpreet-budhraja/)  [EN]
