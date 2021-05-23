@@ -15,3 +15,4 @@
 ### 13-) Freelancer Backend Development-1 with [Ülgen Sarıkavak](https://www.linkedin.com/in/ulgens/)  [TR]
 ### 14-) Freelancer Backend Development-2 with [Ülgen Sarıkavak](https://www.linkedin.com/in/ulgens/)  [TR]
 ### 15-) Data Engineer with [Manpreet Budhraja](https://www.linkedin.com/in/manpreet-budhraja/)  [EN]
+### 16-) Software Team Management with [Tarık Güney](https://www.linkedin.com/in/tarikguney/)  [TR]
